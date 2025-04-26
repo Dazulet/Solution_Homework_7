@@ -1,3 +1,5 @@
+package Iterator;
+
 import java.util.List;
 
 public class BingeIterator implements EpisodeIterator {
